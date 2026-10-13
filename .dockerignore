@@ -1,0 +1,10 @@
+airflow_home/
+data/raw/
+data/sources/
+data/index/
+data/warehouse.duckdb*
+data/alerts.log
+.git/
+.idea/
+**/__pycache__/
+.pytest_cache/

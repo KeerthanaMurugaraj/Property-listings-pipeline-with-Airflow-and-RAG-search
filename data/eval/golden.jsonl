@@ -1,0 +1,10 @@
+{"question": "studio in Esch-sur-Alzette", "expect": {"property_type": "studio", "commune": "Esch-sur-Alzette"}}
+{"question": "studio close to Luxembourg-Gare", "expect": {"property_type": "studio", "commune": "Luxembourg-Gare"}}
+{"question": "flat to rent in Dudelange", "expect": {"property_type": "apartment", "commune": "Dudelange"}}
+{"question": "apartment in Bertrange", "expect": {"property_type": "apartment", "commune": "Bertrange"}}
+{"question": "apartment in Differdange with one bedroom", "expect": {"property_type": "apartment", "commune": "Differdange"}}
+{"question": "family house with a garden", "expect": {"property_type": "house"}}
+{"question": "house in Strassen", "expect": {"property_type": "house", "commune": "Strassen"}}
+{"question": "big house with 5 bedrooms", "expect": {"property_type": "house", "bedrooms": 5}}
+{"question": "3-bedroom apartment", "expect": {"property_type": "apartment", "bedrooms": 3}}
+{"question": "cheap furnished studio", "expect": {"property_type": "studio"}}

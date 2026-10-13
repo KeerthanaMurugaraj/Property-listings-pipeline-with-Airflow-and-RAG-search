@@ -1,0 +1,7 @@
+# Install Airflow first, with its constraints file (see README), then the rest.
+apache-airflow==3.3.2
+lancedb==0.40.0
+fastembed==0.9.0
+anthropic==1.13.0
+pytest==9.1.1
+duckdb==1.5.6
